@@ -229,25 +229,25 @@ Customer-Churn-PowerBI/
 
 ## Churn Prediction & Key Drivers
 
-![Dashboard 1](Images/Churn_prediction_&_Key_Drivers.png)
+![Dashboard 1](images/Churn_prediction_&_Key_Drivers.png)
 
 ---
 
 ## Contract & Billing Insights
 
-![Dashboard 2](Images/Contract_&_Billing.png)
+![Dashboard 2](images/Contract_&_Billing.png)
 
 ---
 
 ## Customer Demographics Analysis
 
-![Dashboard 3](Images/Customer_Demographics.png)
+![Dashboard 3](images/Customer_Demographics.png)
 
 ---
 
 ## Service Subscription Analysis
 
-![Dashboard 4](Images/Service_subcriptions.png)
+![Dashboard 4](images/Service_subcriptions.png)
 
 ---
 
